@@ -1,0 +1,19 @@
+Index: test.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>Первое изменение при создании файла\r\n1 Дополнение в гитхаб\r\n2 дополнение в гитхаб\r\n\r\n1 Дополнение в идее ветка main1\r\n2 Дополнение в идее ветка main1\r\n3 Дополнение в идее ветка main1\r\n\r\n1 Дополнение в гите ветка main1\r\n2 Дополнение в гите ветка main1\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/test.txt b/test.txt
+--- a/test.txt	(revision 06eaf4baeb54a5df8e26a695e40fc71f76571f08)
++++ b/test.txt	(date 1705647000345)
+@@ -5,6 +5,7 @@
+ 1 Дополнение в идее ветка main1
+ 2 Дополнение в идее ветка main1
+ 3 Дополнение в идее ветка main1
++4 Дополнение в идее ветка main1
+ 
+ 1 Дополнение в гите ветка main1
+-2 Дополнение в гите ветка main1
++
