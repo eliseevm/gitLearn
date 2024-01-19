@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62dbf86a-b551-4364-8645-2e901e0e8c6c" name="Changes" comment="Коммит 7-го дополнения в идее ветка main1" />
+    <list default="true" id="62dbf86a-b551-4364-8645-2e901e0e8c6c" name="Changes" comment="Коммит слияния веток main" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,10 +18,10 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": -1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: -1
+}</component>
   <component name="ProjectId" id="2bA5GPcTUVgAokhOJ3gt4sEHiXK" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -32,7 +32,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "main1",
     "last_opened_file_path": "C:/Users/meliseev/IdeaProjects/Laboratory/gitLearn",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -185,6 +185,7 @@
     <MESSAGE value="Коммит 5-го дополнения в идее ветка main1" />
     <MESSAGE value="Коммит 6-го дополнения в идее ветка main1" />
     <MESSAGE value="Коммит 7-го дополнения в идее ветка main1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Коммит 7-го дополнения в идее ветка main1" />
+    <MESSAGE value="Коммит слияния веток main" />
+    <option name="LAST_COMMIT_MESSAGE" value="Коммит слияния веток main" />
   </component>
 </project>
